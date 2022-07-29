@@ -1,4 +1,5 @@
 Landing for MET
+
 Technologies: JavaScript, HTML, CSS, BEM, SASS
 
 - [DEMO](https://denis-khristyuk.github.io/met-landing/)
